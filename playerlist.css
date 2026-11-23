@@ -10,7 +10,9 @@ hr{
     size: 25px;
 }
 h3{
-    color: rgba(255, 0, 0, 0.322);
+    color: rgb(255, 217, 0);
+    background-color: red;
+    border: 1px solid blue;
     font-size: medium;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
