@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+    background-color: yellow;
+}
+body{
+    background-color: skyblue;
+}
+hr{
+    color: black;
+    size: 25px;
+}
+h3{
+    color: rgba(255, 0, 0, 0.322);
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    height: 300px;
+    width: 450px;
+    border-radius: 3px;
+}
