@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+SA+Guides&display=swap');
+.playwrite-au-sa-guides-regular {
+  font-family: "Playwrite AU SA Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
 h1{
     color: blue;
     background-color: yellow;
@@ -10,11 +17,10 @@ hr{
     size: 25px;
 }
 h3{
-    color: rgb(255, 217, 0);
-    background-color: red;
-    border: 1px solid blue;
+    color: rgb(0, 0, 0);
+    background-color: skyblue;
     font-size: medium;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Playwrite AU SA Guides", cursive;
 }
 li{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
