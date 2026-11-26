@@ -10,7 +10,7 @@
             background-color: grey;
         }
         #para, #divref{
-            border: 5px solid brown;
+            border: 5px solid rgb(128, 60, 60);
         }
         .one, .para1{
             font-family: cursive;
@@ -58,6 +58,15 @@
             font-size: 60px;
             color: blue;
         }
+        .golo a[href]{
+            color: orange;
+        }
+        .golo input[type="text"]{
+            border: 3px solid green;
+        }
+        .golo input[placeholder]{
+            background-color: lightseagreen
+        }
     </style>
 </head>
 <body>
@@ -77,5 +86,13 @@
     <a href="https://www.youtube.com" class="linkone">YouTube</a>
     <a href="https://www.instagram.com" class="linktwo">InstaGram</a>
     <button id="btn">Clickme</button>
+    <div class="golo">
+        <a href="https://example.com" target="_blank">Visit Example</a>
+        <a href="https://facebook.com">Facebook</a>
+        <a href="youtube.in">Youtube</a>
+        <a href="mailto:someone@gmail.com">Send Email</a>
+        <input type="text" placeholder="Enter Some Text">
+        <input type="submit" value="submit">
+    </div>
 </body>
 </html>
